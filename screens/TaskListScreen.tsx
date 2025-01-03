@@ -45,7 +45,7 @@ const TaskListScreen = () => {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    padding: 22,
+    padding: 12,
   },
   title: {
     fontSize: 24,
