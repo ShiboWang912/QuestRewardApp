@@ -14,7 +14,7 @@ const TaskListScreen = () => {
     const updatedTask = { ...tasks[index], status: 'removed' };  // Mark task as removed
     updateTask(index, updatedTask);
   };
-
+//testing branch 3
   return (
     <View style={styles.container}>
       <Text style={styles.title}>Task List</Text>
